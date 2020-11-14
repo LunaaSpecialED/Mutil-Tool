@@ -1,0 +1,1 @@
+variable=msgbox ("Choose Vaild Number",0+48,"Kraken Says")
